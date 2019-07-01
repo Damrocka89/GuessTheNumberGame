@@ -1,5 +1,5 @@
 <thlogic>
    <attr sel="#footer-th"
          th:fragment="footerFragment"/>
-
+<attr sel="#created-by" th:text="|#{game.createdby} E.Ł.|"/>
 </thlogic>
